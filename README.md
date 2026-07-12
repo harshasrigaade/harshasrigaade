@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 Aritificial Intelligence and Computer Science Student at ICFAI University<br>📊 Aspiring Data Analyst with a passion for transforming data into actionable insights<br>🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics<br>💻 Experienced in developing web applications and AI-powered solutions<br>🚀 Built projects including Internsheild,Urban Flow AI, DataBoy, BSafe, Gyanavedika, and Kathayatra<br>🌱 Currently enhancing my skills in Python, SQL, Power BI, Data Visualization, and Predictive Analytics<br>🤝 Open to internships, hackathons, and collaborative projects
 
+MY Portfolio: https://harsha-sri-portfoliovercel-hzhosz9tv.vercel.app/
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SP5nrRYMC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsha-sri-) 
